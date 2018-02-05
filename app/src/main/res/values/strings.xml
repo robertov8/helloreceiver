@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloReceiver</string>
+    <string name="enviar">Enviar</string>
+    <string name="titulo">Clique no botão para dispara um receiver</string>
+</resources>
